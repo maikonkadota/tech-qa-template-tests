@@ -1,0 +1,6 @@
+@tech_qa_template_tests_HostAddress = http://localhost:5245
+
+GET {{tech_qa_template_tests_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
