@@ -2,6 +2,10 @@
 bin/
 obj/
 
+# Ignore build artifacts from tests
+tests/bin/
+tests/obj/
+
 # Ignore user-specific files
 *.user
 *.rsuser
